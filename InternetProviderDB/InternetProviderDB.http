@@ -1,0 +1,6 @@
+@InternetProviderDB_HostAddress = http://localhost:5173
+
+GET {{InternetProviderDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
